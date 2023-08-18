@@ -4,7 +4,7 @@
  *  keyword:var keyworkd_custom op:eq String
 */
 
-class Magenta{
+class heaven{
     constructor(codes){
         this.codes = codes
     }
@@ -158,5 +158,5 @@ const codes =
 `print "hello world"
 var msg = "secret message"
 print msg`
-const magenta = new Magenta(codes)
-magenta.run()
+const heaven = new Magenta(codes)
+heaven.run()
