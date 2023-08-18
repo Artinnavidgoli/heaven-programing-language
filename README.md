@@ -17,8 +17,8 @@ const codes =
 `print "hello world"
 var msg = "secret message"
 print msg`
-const magenta = new Magenta(codes)
-magenta.run()
+const heaven = new heaven(codes)
+heaven.run()
 ```
 
 ****
